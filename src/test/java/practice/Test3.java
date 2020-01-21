@@ -11,5 +11,10 @@ public class Test3 {
     public void checkLocalDate() {
         System.out.println(LocalDateTime.now());
     }
+    
+    @Test
+    public void gitBranchTesting() {
+        System.out.println("This is sada branch code");
+    }
 
 }
